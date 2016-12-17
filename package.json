@@ -1,0 +1,10 @@
+{
+  "name": "js-datafile",
+  "version": "1.0.0",
+  "description": "A demo for javascript datafile application",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.4.12",
+    "materialize-css": "^0.97.8"
+  }
+}
